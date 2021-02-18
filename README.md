@@ -12,7 +12,7 @@ Include HSV min,max values to the "mycolors" list.
 Keep in mind that HSV values may differ w.r.t lighting conditions.
 
 
-Color tracing is actually really simple
+Color tracing is simple
 1) First we convert BGR to HSV
 2) Get contours for each frame of your webcam 
 3) Then draw each point as it is recognized
