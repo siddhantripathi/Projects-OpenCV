@@ -22,3 +22,6 @@ One issue I did face was that the program recognised my clothes as well whereas 
 
 To solve this I made the area under consideration only to be less than 250, i.e, only objects with area less than 250 will be considered
 
+Output:
+
+![alt text]https://github.com/siddhantripathi/Projects-OpenCV/blob/main/Screenshot%202021-02-02%20123332.PNG.jpg
